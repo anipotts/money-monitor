@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# AWS
+.aws-sam/
+samconfig.toml
+
+# Node (later)
+node_modules/
+
+# Mac
+.DS_Store
